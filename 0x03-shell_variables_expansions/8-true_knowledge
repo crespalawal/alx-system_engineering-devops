@@ -1,0 +1,2 @@
+#!/bin/bash
+TRUEKNOWLEDGE=x echo $(TRUEKNOWLEDGE + 128)
