@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --sort=time | head -n 10
+find -empty | rev | cut -d/ -f 1 | rev
